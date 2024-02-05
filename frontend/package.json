@@ -16,6 +16,7 @@
     "@remix-run/react": "^2.6.0",
     "@remix-run/serve": "^2.6.0",
     "isbot": "^4.1.0",
+    "proto": "file:../proto",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

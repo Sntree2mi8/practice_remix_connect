@@ -1,2 +1,8 @@
 # practice_remix_connect
-remixでconnect使って見るだけ
+使ってみるrepository
+remixでconnect使ってみるだけ
+
+# References
+- https://connectrpc.com/docs/introduction
+- https://buf.build/
+- https://remix.run/
