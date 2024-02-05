@@ -1,0 +1,2 @@
+# practice_remix_connect
+remixでconnect使って見るだけ
