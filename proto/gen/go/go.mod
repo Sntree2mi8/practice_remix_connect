@@ -1,4 +1,4 @@
-module practice_remix_connect
+module github.com/Sntree2mi8/practice-remix-connect
 
 go 1.21
 
