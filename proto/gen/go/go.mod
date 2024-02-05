@@ -1,4 +1,4 @@
-module github.com/Sntree2mi8/practice-remix-connect
+module github.com/Sntree2mi8/practice_remix_connect/tree/main/proto/gen/go
 
 go 1.21
 
